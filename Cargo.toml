@@ -1,0 +1,12 @@
+[package]
+name = "bullets"
+version = "0.1.0"
+authors = ["Lucas Overland <loverland@linkedin.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rand = "0.5.5"
+settimeout = "0.1.2"
+async-std = "1.9.0"
